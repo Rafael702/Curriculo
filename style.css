@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+    overflow: unset;
+}
+
+body{
+    background-image: url(img/background-color-orange.jpg);
+    background-repeat: round;
+}
+.bingo{
+    background-color: #ee8f25;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-top: 3px solid;
+}
+
+.bingo h2{
+    display: inline-block;
+    margin-left: 7%;
+    margin-top: 1%;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 60.5px;
+    font-size: 40px;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    
+}
+.sorteio{
+    border: solid;
+    padding: 4px;
+    width: 1204px;
+    height: 300px;
+    margin-left: 1%;
+    
+}
+.sorteio p{
+    font-size: 25px;    
+    text-align: center;
+    display: inline-block;
+    opacity: 0.7;
+    margin-left: 6%;
+    margin-top: 1%;
+    border-radius: 50%;
+    width: 37px;
+    height: 37px;
+    border: solid;
+    background-color: lightgray;
+
+}
+
